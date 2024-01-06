@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Lenovo\OneDrive\Documents\Matkul Alprog\Volume dan Luas\UTS Alprog\main.cpp(2,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Lenovo\OneDrive\Documents\Matkul Alprog\Volume dan Luas\UTS Alprog\main.cpp(61,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Documents\Matkul Alprog\Volume dan Luas\UTS Alprog\main.cpp(62,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Documents\Matkul Alprog\Volume dan Luas\UTS Alprog\main.cpp(75,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Documents\Matkul Alprog\Volume dan Luas\UTS Alprog\main.cpp(76,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Documents\Matkul Alprog\Volume dan Luas\UTS Alprog\main.cpp(127,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Documents\Matkul Alprog\Volume dan Luas\UTS Alprog\main.cpp(128,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Documents\Matkul Alprog\Volume dan Luas\UTS Alprog\main.cpp(147,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Documents\Matkul Alprog\Volume dan Luas\UTS Alprog\main.cpp(148,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  UTS Alprog.vcxproj -> C:\Users\Lenovo\OneDrive\Documents\Matkul Alprog\Volume dan Luas\x64\Debug\UTS Alprog.exe
